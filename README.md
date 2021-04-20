@@ -1,11 +1,5 @@
 # Smaple Gatsby Portfolio Website
-https://primefy.admin.datocms.com/![Screen Shot 2021-04-20 at 11 41 14 AM](https://user-images.githubusercontent.com/7315898/115375119-c5925000-a1cd-11eb-9f13-5146d996ee40.png)
-<img width="1680" alt="Project Managment over Word" src="https://user-images.githubusercontent.com/7315898/115375124-c6c37d00-a1cd-11eb-991c-8abb90b4126c.png">
-![Screen Shot 2021-04-20 at 11 41 04 AM](https://user-images.githubusercontent.com/7315898/115375144-ca570400-a1cd-11eb-85c4-961e1b1f1890.png)
-![Screen Shot 2021-04-20 at 11 40 57 AM](https://user-images.githubusercontent.com/7315898/115375146-caef9a80-a1cd-11eb-9bd8-ef73ae410472.png)
 
-
-This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
 
 Gatsby makes the hardest parts of building an amazing digital experience simple. When you build with Gatsby, you’ll have an incredibly smooth website that delights and converts visitors. But its not all about the "sex", as described above its about versatile connectivity and overall security. Gatsby is actually faster then developing a WordPress template, it just requires a different philosophy of workflow. Build Tools have been downloaded over 100 million times (what is a "[Build Tool](https://stackoverflow.com/questions/7249871/what-is-a-build-tool)") and its safe to say that every technical person today either has a GitHub (reached last year over 12 million users) or a BitBucket account
