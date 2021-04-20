@@ -1,10 +1,17 @@
-# Gatsby Portfolio Website
+# Smaple Gatsby Portfolio Website
+https://primefy.admin.datocms.com/
 
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
+
+Gatsby makes the hardest parts of building an amazing digital experience simple. When you build with Gatsby, you’ll have an incredibly smooth website that delights and converts visitors. But its not all about the "sex", as described above its about versatile connectivity and overall security. Gatsby is actually faster then developing a WordPress template, it just requires a different philosophy of workflow. Build Tools have been downloaded over 100 million times (what is a "[Build Tool](https://stackoverflow.com/questions/7249871/what-is-a-build-tool)") and its safe to say that every technical person today either has a GitHub (reached last year over 12 million users) or a BitBucket account
+
+
 ![Preview](preview.png)
 
-[See the live demo](https://demo-datocms-gatsby.netlify.com/)
+
+
+[See the live demo of template](https://demo-datocms-gatsby.netlify.com/)
 
 If you want to use try this out yourself, you first need to set up a project on DatoCMS which will host your data.
 
